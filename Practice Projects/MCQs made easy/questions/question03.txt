@@ -1,0 +1,5 @@
+The value in decimal of the hexadecimal value A7 is:
+a. 167
+b. 157
+c. 177
+d. 187

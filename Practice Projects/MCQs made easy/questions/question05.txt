@@ -1,0 +1,5 @@
+The octal value of the hexadecimal number 1F is
+a. 28
+b. 29
+c. 30
+d. 31

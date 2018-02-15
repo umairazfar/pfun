@@ -1,0 +1,5 @@
+The binary value of the decimal number 17 is
+a. 1011
+b. 1101
+c. 1001
+d. 0110

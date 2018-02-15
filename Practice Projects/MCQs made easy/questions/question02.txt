@@ -1,0 +1,5 @@
+The value in decimal of the octal value 17 is:
+a. 14
+b. 15
+c. 16
+d. 17

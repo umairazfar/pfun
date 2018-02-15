@@ -1,0 +1,5 @@
+The octal value of the decimal number 34 is
+a. 40
+b. 48
+c. 44
+d. 42

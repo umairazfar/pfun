@@ -1,0 +1,5 @@
+The value in decimal of the binary value 110 is:
+a. 2
+b. 5
+c. 6
+d. 7
