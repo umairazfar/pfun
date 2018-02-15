@@ -1,0 +1,15 @@
+There are 67 empty spaces
+
+wwwwwwwwwwwwww
+w____________w
+w_hT______Th_w
+w_h________h_w
+w_h________h_w
+w_h________h_w
+w_h__________w
+w_wwwwwwwwww_w
+w__w
+w_hhhhhhh_w
+TTTTTTTTTTTTT
+DDDDDD
+

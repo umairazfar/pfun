@@ -1,0 +1,17 @@
+The Final Output:
+
+wwwwwwwwwwwww
+w___________w
+w__D_____D__w
+w_hT_h_h_Th_w
+w__D_____D__w
+w_hT_h_h_Th_w
+w__D_____D__w
+w_hT_h_h_Th_w
+w___________w
+wwwwwwwwwwwww
+
+Number of Furnitures remaining:
+Chairs = 4
+Tables = 1
+Desktops= 0

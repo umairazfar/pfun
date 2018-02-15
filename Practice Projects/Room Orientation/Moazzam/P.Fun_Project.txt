@@ -1,0 +1,11 @@
+Room with best placement of furniture:
+WWWWWWWWW
+W_______W
+W_hT_Th_W
+W__D_D__W
+W_hT_Th_W
+W_______W
+WWWWWWWWW
+Numbers of Chairs left:0
+Numbers of Tables left:0
+Numbers of Computers left:0
