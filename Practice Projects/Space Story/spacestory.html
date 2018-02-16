@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<style>
+			body {
+				margin: 0px;
+				padding: 0px;
+			}
+		</style>
+	</head>
+	<body>
+		<canvas id="myCanvas" width="1000" height="4000"></canvas>
+		<script>
+			var canvas = document.getElementById('myCanvas');
+			var context = canvas.getContext('2d');
+			context.font = 'bold 40pt Calibri';
+			context.fillText('Final Flight', 0, 50);
+			context.font = 'normal 16pt Calibri';
+			context.fillText('You are the last hope for humanity, starting a journey from a desolated planet to your home ... EARTH!', 0, 175);
+			var imageObj2 = new Image();
+			imageObj2.onload = function() {
+				context.drawImage(imageObj2, 0, 250);
+			};
+			imageObj2.src = 'Images/ship1.jpg';
+
+			context.font = 'normal 16pt Calibri';
+			context.fillText('Your ship, although ill equiped is what you have to traverse this vast expanse of space', 0, 425);
+			var imageObj4 = new Image();
+			imageObj4.onload = function() {
+				context.drawImage(imageObj4, 0, 500);
+			};
+			imageObj4.src = 'Images/hyperspace.jpg';
+
+			context.font = 'normal 16pt Calibri';
+			context.fillText('You push the throttle and prepare for hyperspace jump into the unknown', 0, 675);
+			var imageObj6 = new Image();
+			imageObj6.onload = function() {
+				context.drawImage(imageObj6, 0, 750);
+			};
+			imageObj6.src = 'Images/ship2.jpg';
+
+			context.font = 'normal 16pt Calibri';
+			context.fillText('You came across a spaceship', 0, 925);
+			var imageObj8 = new Image();
+			imageObj8.onload = function() {
+				context.drawImage(imageObj8, 0, 1000);
+			};
+			imageObj8.src = 'Images/enemykilled.jpg';
+
+			context.font = 'normal 16pt Calibri';
+			context.fillText('As you tried to dock, the ship attacked. You responded and destroyed the ship', 0, 1175);
+			context.font = 'normal 16pt Calibri';
+			context.fillText('You make a jump to the next quadrant', 0, 1300);
+			var imageObj11 = new Image();
+			imageObj11.onload = function() {
+				context.drawImage(imageObj11, 0, 1375);
+			};
+			imageObj11.src = 'Images/hyperspace.jpg';
+
+			var imageObj13 = new Image();
+			imageObj13.onload = function() {
+				context.drawImage(imageObj13, 0, 1625);
+			};
+			imageObj13.src = 'Images/planet.jpg';
+
+			context.font = 'normal 16pt Calibri';
+			context.fillText('You came across a planet', 0, 1800);
+			context.font = 'normal 16pt Calibri';
+			context.fillText('Nothing turned up, it was a complete waste of time', 0, 1925);
+			context.font = 'normal 16pt Calibri';
+			context.fillText('You make a jump to the next quadrant', 0, 2050);
+			var imageObj17 = new Image();
+			imageObj17.onload = function() {
+				context.drawImage(imageObj17, 0, 2125);
+			};
+			imageObj17.src = 'Images/hyperspace.jpg';
+
+			var imageObj19 = new Image();
+			imageObj19.onload = function() {
+				context.drawImage(imageObj19, 0, 2375);
+			};
+			imageObj19.src = 'Images/anomaly.jpg';
+
+			context.font = 'normal 16pt Calibri';
+			context.fillText('You came across a space anomaly', 0, 2550);
+			context.font = 'normal 16pt Calibri';
+			context.fillText('The anomaly generated an energy pulse that made your ship stronger', 0, 2675);
+			context.font = 'normal 16pt Calibri';
+			context.fillText('You make a jump to the next quadrant', 0, 2800);
+			var imageObj23 = new Image();
+			imageObj23.onload = function() {
+				context.drawImage(imageObj23, 0, 2875);
+			};
+			imageObj23.src = 'Images/hyperspace.jpg';
+
+			var imageObj25 = new Image();
+			imageObj25.onload = function() {
+				context.drawImage(imageObj25, 0, 3125);
+			};
+			imageObj25.src = 'Images/victory.jpg';
+
+			context.font = 'normal 16pt Calibri';
+			context.fillText('You reached earth victorious and saved your people', 0, 3300);
+		</script>
+	</body>
+</html>
